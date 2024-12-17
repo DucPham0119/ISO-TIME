@@ -1,0 +1,534 @@
+Dù chỉ được biên_chế trong 9 năm , Regulus đã mang lại nhiều kinh_nghiệm cho Mỹ trong hoạt_động răn_đe hạt_nhân trên biển , cũng như xây_dựng nền_tảng cho dòng tên_lửa hành_trình Tomahawk sau_này .
+<TimeML>
+Dù chỉ được biên chế trong <TIMEX3 tid="t1" type="DURATION" value="P9Y">9 năm</TIMEX3> , Regulus đã mang lại nhiều kinh nghiệm cho Mỹ trong hoạt động răn đe hạt nhân trên biển , cũng như xây dựng nền tảng cho dòng tên lửa hành trình Tomahawk sau này .
+</TimeML>
+
+Tương_tự như khi mã_hoá , quá_trình gỡ mã_hoá có_thể diễn ra trong vài giờ .
+<TimeML>
+Tương tự như khi mã hoá , quá trình gỡ mã hoá có thể diễn ra trong <TIMEX3 tid="t1" type="DURATION" value="PXH" mod="APPROX">vài giờ</TIMEX3> .
+</TimeML>
+
+Năm 2017 , chiến_dịch lấy chủ_đề `` Quản_lý rác_thải vì môi_trường nông_thôn bền_vững . trường Bộ Tài_nguyên và Môi_trường phối_hợp với ' ' ' ' UBND tỉnh Hoà_Bình tổ_chức các hoạt_động cấp quốc_gia hưởng_ứng chiến_dịch trong hai ngày 22 và 23-9 .
+<TimeML>
+<TIMEX3 tid="t2" type="DATE" value="2017">Năm 2017</TIMEX3> , chiến dịch lấy chủ đề `` Quản lý rác thải vì môi trường nông thôn bền vững . trường Bộ Tài nguyên và Môi trường phối hợp với ' ' ' ' UBND tỉnh Hoà Bình tổ chức các hoạt động cấp quốc gia hưởng ứng chiến dịch trong <TIMEX3 tid="t5" type="DURATION" value="P2D">hai ngày</TIMEX3> 22 và 23-9 .
+</TimeML>
+
+5 . Người phạm_tội còn có_thể bị cấm đảm_nhiệm chức_vụ , cấm hành_nghề hoặc làm công_việc nhất_định từ 01 năm đến 05 năm . ”
+<TimeML>
+5 . Người phạm tội còn có thể bị cấm đảm nhiệm chức vụ , cấm hành nghề hoặc làm công việc nhất định từ <TIMEX3 tid="t1" type="DURATION" value="P01Y">01 năm</TIMEX3> đến <TIMEX3 tid="t2" type="DURATION" value="P05Y">05 năm</TIMEX3> . ”
+</TimeML>
+
+Ông Nghĩa kê_khai mình nguyên là Bí_thư chi_bộ xã Thới_Thạnh giai_đoạn 1967 - 1971 , bị địch bắt cuối năm 1971 .
+<TimeML>
+Ông Nghĩa kê khai mình nguyên là Bí thư chi bộ xã Thới Thạnh giai đoạn <TIMEX3 tid="t5" type="DATE" value="1967">1967</TIMEX3> - <TIMEX3 tid="t6" type="DATE" value="1971">1971</TIMEX3> , bị địch bắt <TIMEX3 tid="t4" type="DATE" value="1971" mod="END">cuối năm 1971</TIMEX3> .
+</TimeML>
+
+Vấn_đề kiểm_tra an_toàn thực_phẩm đang thu_hút sự quan_tâm lớn của cộng_đồng DN và nếu trường_hợp mặt_hàng nhập_khẩu đạt yêu_cầu sau 3 lần kiểm_tra liên_tiếp trong 12 tháng sẽ được miễn kiểm_tra về an_toàn thực_phẩm , đây là một đột_phá về cải_cách , tạo thuận_lợi cho DN .
+<TimeML>
+Vấn đề kiểm tra an toàn thực phẩm đang thu hút sự quan tâm lớn của cộng đồng DN và nếu trường hợp mặt hàng nhập khẩu đạt yêu cầu <TIMEX3 type="DURATION" mod="AFTER">sau 3 lần kiểm tra liên tiếp</TIMEX3> trong <TIMEX3 tid="t1" type="DURATION" value="P1Y">12 tháng</TIMEX3> sẽ được miễn kiểm tra về an toàn thực phẩm , đây là một đột phá về cải cách , tạo thuận lợi cho DN .
+</TimeML>
+
+Trưa 12-10-2010 , Miên đi xe_ôm đến chung_cư của bà Nam ở quận Phú_Nhuận thì thấy Thảo đã đợi sẵn .
+<TimeML>
+<TIMEX3 tid="t3" type="TIME" value="2010-10-12TMD">Trưa 12-10-2010</TIMEX3> , Miên đi xe ôm đến chung cư của bà Nam ở quận Phú Nhuận thì thấy Thảo đã đợi sẵn .
+</TimeML>
+
+Theo ông Nguyễn_Vũ_Trường_Sơn , Tổng_giám_đốc tại buổi làm_việc chiều nay tại Bộ Công_thương , tình_trạng hiện_tại của dự_án PVTex là hết_sức khó_khăn và nhà_máy vẫn chưa khởi_động lại .
+<TimeML>
+Theo ông Nguyễn Vũ Trường Sơn , Tổng giám đốc tại buổi làm việc <TIMEX3 tid="t4" type="TIME" value="XXXX-XX-XXTAF">chiều nay</TIMEX3> tại Bộ Công thương , tình trạng <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">hiện tại</TIMEX3> của dự án PVTex là hết sức khó khăn và nhà máy vẫn chưa khởi động lại .
+</TimeML>
+
+Siêu bão Maria đã đi qua , thời_tiết ở Puerto_Rico cũng đã tốt hơn nhưng người_dân có_thể sẽ phải sống trong cảnh thiếu điện khoảng 6 tháng nữa .
+<TimeML>
+Siêu bão Maria đã đi qua , thời tiết ở Puerto Rico cũng đã tốt hơn nhưng người dân có thể sẽ phải sống trong cảnh thiếu điện <TIMEX3 tid="t1" type="DURATION" value="P6M" mod="APPROX">khoảng 6 tháng</TIMEX3> nữa .
+</TimeML>
+
+Người ta tin rằng con cá_sấu này đã chết vài ngày trước khi một người_dân phát_hiện và thông_báo cho các nhân_viên môi_trường .
+<TimeML>
+Người ta tin rằng con cá sấu này đã chết vài <TIMEX3 tid="t2" type="DATE" value="XXXX-XX-XX">ngày trước</TIMEX3> khi một người dân phát hiện và thông báo cho các nhân viên môi trường .
+</TimeML>
+
+Trong 90 ngày , Hà được tiếp_cận với kiến_thức chuyên_môn và thực_hành các kỹ_năng giao_tiếp mới .
+<TimeML>
+Trong <TIMEX3 tid="t1" type="DURATION" value="P90D">90 ngày</TIMEX3> , Hà được tiếp cận với kiến thức chuyên môn và thực hành các kỹ năng giao tiếp mới .
+</TimeML>
+
+Tuy_nhiên , thời_gian gần đây , bà Phượng bỗng_dưng `` biến mất khỏi địa_phương khiến họ vô_cùng lo_lắng .
+<TimeML>
+Tuy nhiên , thời gian <TIMEX3 tid="t1" type="DATE" value="PAST_REF">gần đây</TIMEX3> , bà Phượng bỗng dưng `` biến mất khỏi địa phương khiến họ vô cùng lo lắng .
+</TimeML>
+
+Khoảng 23 giờ ngày 20/9 , khi đang hoạt_động trên biển tại toạ_độ 13 ' ' N , 111 ' ' E , cách vùng_biển Tuy_Hoà ( Phú_Yên ) khoảng 100 hải_lý thì tàu QNg 95183 TS đã đâm vào một vật_thể lạ , cú đâm nặng khiến tàu của ông Trung bị phá_nước .
+<TimeML>
+<TIMEX3 tid="t3" type="DURATION" value="P23H" mod="APPROX">Khoảng 23 giờ</TIMEX3> <TIMEX3 tid="t2" type="DATE" value="XXXX-09-20">ngày 20/9</TIMEX3> , <TIMEX3 type="TIME">khi đang hoạt động trên biển tại toạ độ 13 ' ' N , 111 ' ' E , cách vùng biển Tuy Hoà ( Phú Yên ) khoảng 100 hải lý</TIMEX3> thì tàu QNg 95183 TS đã đâm vào một vật thể lạ , cú đâm nặng khiến tàu của ông Trung bị phá nước .
+</TimeML>
+
+Mua mỗi bỉm , tháng 3 trăm nghìn , ăn của mẹ ngày 50 nghìn .
+<TimeML>
+Mua mỗi bỉm , <TIMEX3 tid="t1" type="DATE" value="XXXX-03">tháng 3</TIMEX3> trăm nghìn , ăn của mẹ ngày 50 nghìn .
+</TimeML>
+
+Trước đó 5 năm , một người phụ_nữ sống tại TP Tây_An còn mua một con chó với giá 4 triệu NDT và đón_chào nó bằng đoàn xe_hơi 30 chiếc ở sân_bay .
+<TimeML>
+<TIMEX3 type="DURATION" mod="BEFORE">Trước đó</TIMEX3> <TIMEX3 tid="t1" type="DURATION" value="P5Y">5 năm</TIMEX3> , một người phụ nữ sống tại TP Tây An còn mua một con chó với giá 4 triệu NDT và đón chào nó bằng đoàn xe hơi 30 chiếc ở sân bay .
+</TimeML>
+
+Theo đó , cách đây khoảng 1 tháng , bóng_đá Croatia rúng_động khi cựu giám_đốc_điều_hành của CLB Dinamo_Zagreb_Zdravko_Mamic bị một nhóm côn_đồ bắn vào chân .
+<TimeML>
+Theo đó , cách đây <TIMEX3 tid="t1" type="DURATION" value="P1M" mod="APPROX">khoảng 1 tháng</TIMEX3> , bóng đá Croatia rúng động <TIMEX3 type="TIME">khi cựu giám đốc điều hành của CLB Dinamo Zagreb Zdravko Mamic bị một nhóm côn đồ bắn vào chân</TIMEX3> .
+</TimeML>
+
+Năm 1927 đánh_dấu việc A T&T ra_mắt dịch_vụ điện_thoại đường dài tới London bằng cách sử_dụng đài_phát_thanh hai chiều , với chi_phí 75 USD trong 5 phút .
+<TimeML>
+<TIMEX3 tid="t2" type="DATE" value="1927">Năm 1927</TIMEX3> đánh dấu việc A T&T ra mắt dịch vụ điện thoại đường dài tới London bằng cách sử dụng đài phát thanh hai chiều , với chi phí 75 USD trong <TIMEX3 tid="t4" type="DURATION" value="P5M">5 phút</TIMEX3> .
+</TimeML>
+
+Theo tính_toán của các nhà_khoa_học Mỹ thì cuộc Đại_Tuyệt chủng lần thứ 6 đang ở mức đáng báo_động rồi và chúng có_thể diễn ra vào cuối thế_kỷ này .
+<TimeML>
+Theo tính toán của các nhà khoa học Mỹ thì cuộc Đại Tuyệt chủng lần <TIMEX3 tid="t1" type="DATE">thứ 6</TIMEX3> đang ở mức đáng báo động rồi và chúng có thể diễn ra vào <TIMEX3 tid="t3" type="DATE" value="XX" mod="END">cuối thế kỷ này</TIMEX3> .
+</TimeML>
+
+Trong những năm qua , nhà_chức_trách Hàn_Quốc và Nhật_Bản đau_đầu vì tình_trạng dân_số ngày_càng già đi , tỷ_suất sinh sụt_giảm dần và người trẻ lười hẹn_hò , kết_hôn .
+<TimeML>
+Trong <TIMEX3 tid="t1" type="DURATION" value="PXY" mod="APPROX">những năm</TIMEX3> qua , nhà chức trách Hàn Quốc và Nhật Bản đau đầu vì tình trạng dân số ngày càng già đi , tỷ suất sinh sụt giảm dần và người trẻ lười hẹn hò , kết hôn .
+</TimeML>
+
+Sau đó 2 năm , thẩm_phán đưa ra phán_quyết 25 năm tù cho Bout .
+<TimeML>
+Sau đó <TIMEX3 tid="t1" type="DURATION" value="P2Y">2 năm</TIMEX3> , thẩm phán đưa ra phán quyết <TIMEX3 tid="t2" type="DURATION" value="P25Y">25 năm</TIMEX3> tù cho Bout .
+</TimeML>
+
+Chia_sẻ lại một màn mai_mối lên sóng từ cách đây 2 năm , “ Bạn muốn hẹn_hò ” gây bão dân mạng .
+<TimeML>
+Chia sẻ lại một màn mai mối lên sóng từ cách đây <TIMEX3 tid="t1" type="DURATION" value="P2Y">2 năm</TIMEX3> , “ Bạn muốn hẹn hò ” gây bão dân mạng .
+</TimeML>
+
+“ Một ngày chưa hiểu thì hai ngày , nói một ý không hiểu thì hai ý … làm_sao đả_thông tư_tưởng anh_em .
+<TimeML>
+“ <TIMEX3 tid="t1" type="DURATION" value="P1D">Một ngày</TIMEX3> chưa hiểu thì <TIMEX3 tid="t2" type="DURATION" value="P2D">hai ngày</TIMEX3> , nói một ý không hiểu thì hai ý … làm sao đả thông tư tưởng anh em .
+</TimeML>
+
+' Cách đây vài ngày khi nghe đến Gossip_Girl tôi tò_mò và dành hẳn 2 ngày lẫn đêm để xem hết season 1 và một_nửa của season 2 , à tôi có lén xem tập cuối phim nữa .
+<TimeML>
+' Cách đây <TIMEX3 tid="t2" type="DURATION" value="PXD" mod="APPROX">vài ngày</TIMEX3> <TIMEX3 type="TIME">khi nghe đến Gossip Girl</TIMEX3> tôi tò mò và dành hẳn <TIMEX3 tid="t1" type="DURATION" value="P2D">2 ngày</TIMEX3> lẫn đêm để xem hết season 1 và một nửa của season 2 , à tôi có lén xem tập cuối phim nữa .
+</TimeML>
+
+Số giàn khoan , một chỉ_số sớm cho sản_lượng tương_lai , giữ ở mức 747 giàn trong tuần tính tới 22/12 , tuy_nhiên vẫn cao hơn nhiều một năm trước khi chỉ có 523 giàn hoạt_động , sau khi các công_ty năng_lượng tăng_cường kế_hoạch chi_tiêu cho năm 2017 , do giá dầu_thô bắt_đầu phục_hồi .
+<TimeML>
+Số giàn khoan , một chỉ số sớm cho sản lượng tương lai , giữ ở mức 747 giàn trong tuần tính tới <TIMEX3 tid="t1" type="DATE" value="XXXX-12-22">22/12</TIMEX3> , tuy nhiên vẫn cao hơn nhiều <TIMEX3 tid="t2" type="DATE" value="XXXX">một năm trước</TIMEX3> <TIMEX3 type="TIME">khi chỉ có 523 giàn hoạt động</TIMEX3> , sau khi các công ty năng lượng tăng cường kế hoạch chi tiêu cho <TIMEX3 tid="t4" type="DATE" value="2017">năm 2017</TIMEX3> , do giá dầu thô bắt đầu phục hồi .
+</TimeML>
+
+Chỉ trong một tuần trở_lại đây , các nhà thiên_văn_học đã phát_hiện có tới ba tiểu hành_tinh chưa từng được biết tới trước_đây đã tiếp_cận rất gần với Trái_Đất , nhưng điều may_mắn là chúng không gây ra bất_cứ nguy_hiểm gì cho Trái_Đất của chúng_ta .
+<TimeML>
+Chỉ trong <TIMEX3 tid="t1" type="DURATION" value="P1W">một tuần</TIMEX3> trở lại đây , các nhà thiên văn học đã phát hiện có tới ba tiểu hành tinh chưa từng được biết tới trước đây đã tiếp cận rất gần với Trái Đất , nhưng điều may mắn là chúng không gây ra bất cứ nguy hiểm gì cho Trái Đất của chúng ta .
+</TimeML>
+
+Phút 55 , cầu_thủ vào sân thay người Vũ_Phong có pha chọc khe đầy tinh_tế tạo điều_kiện cho tiền_đạo mang áo số 19 dứt_điểm chéo góc , đáng tiếc trái bóng đi chệch cột_dọc trong gang_tấc . 3 phút sau , cầu_thủ gốc Argentina bất_ngờ bứt tốc từ giữa sân loại_bỏ hoàn_toàn hàng phòng_ngự của Than_Quảng_Ninh , thế nhưng thể_lực ở tuổi 33 khiến Đỗ_Merlo không_thể tung ra cú sút hoàn_hảo nhất .
+<TimeML>
+<TIMEX3 tid="t1" type="TIME">Phút 55</TIMEX3> , cầu thủ vào sân thay người Vũ Phong có pha chọc khe đầy tinh tế tạo điều kiện cho tiền đạo mang áo số 19 dứt điểm chéo góc , đáng tiếc trái bóng đi chệch cột dọc trong gang tấc . <TIMEX3 tid="t2" type="DURATION" value="P3M" mod="AFTER">3 phút sau</TIMEX3> , cầu thủ gốc Argentina bất ngờ bứt tốc từ giữa sân loại bỏ hoàn toàn hàng phòng ngự của Than Quảng Ninh , thế nhưng thể lực ở tuổi 33 khiến Đỗ Merlo không thể tung ra cú sút hoàn hảo nhất .
+</TimeML>
+
+Eugenia_Silva sinh ngày 13/01/1976 tại Madrid , Tây_Ban_Nha .
+<TimeML>
+Eugenia Silva sinh <TIMEX3 tid="t3" type="DATE" value="1976-01-13">ngày 13/01/1976</TIMEX3> tại Madrid , Tây Ban Nha .
+</TimeML>
+
+Trong những năm gần đây , nhiều hội_đoàn từ_thiện đã nhiệt_thành tham_gia cứu_trợ đồng_bào bị thiên_tai , người nghèo_khổ , hoạn_nạn .
+<TimeML>
+Trong <TIMEX3 tid="t2" type="DURATION" value="PXY" mod="APPROX">những năm</TIMEX3> <TIMEX3 tid="t1" type="DATE" value="PAST_REF">gần đây</TIMEX3> , nhiều hội đoàn từ thiện đã nhiệt thành tham gia cứu trợ đồng bào bị thiên tai , người nghèo khổ , hoạn nạn .
+</TimeML>
+
+Một trong những điều buồn nhất của mùa đông là chúng_ta phải nói lời tạm_biệt với những chiếc váy xinh_xắn đã giúp bạn toả sáng_suốt mùa nắng vừa_qua .
+<TimeML>
+Một trong những điều buồn nhất của <TIMEX3 tid="t1" type="DATE" value="XXXX-WI">mùa đông</TIMEX3> là chúng ta phải nói lời tạm biệt với những chiếc váy xinh xắn đã giúp bạn toả sáng suốt <TIMEX3 tid="t2" type="DATE" value="XXXX-SU">mùa nắng</TIMEX3> vừa qua .
+</TimeML>
+
+V-League có “ biến ” ; Ronaldo trù_dập đàn_em ; Costa không hận Conte là những tin bóng_đá nóng nhất tối 22/9 .
+<TimeML>
+V-League có “ biến ” ; Ronaldo trù dập đàn em ; Costa không hận Conte là những tin bóng đá nóng nhất <TIMEX3 tid="t2" type="TIME" value="XXXX-09-22TEV">tối 22/9</TIMEX3> .
+</TimeML>
+
+Những năm đầu_tiên của Merkel trong vai_trò lãnh_đạo đảng CDU không hề dễ_dàng .
+<TimeML>
+<TIMEX3 tid="t1" type="DURATION" value="PXY" mod="APPROX">Những năm</TIMEX3> đầu tiên của Merkel trong vai trò lãnh đạo đảng CDU không hề dễ dàng .
+</TimeML>
+
+Giải hạng Nhất – Cúp_Bia_Saigon_Special 2017 sẽ tiếp_tục diễn ra vào chiều Chủ_nhật hàng tuần trên sân Bộ Công_an , kéo_dài trong 3 tháng để chọn ra 2 đội đứng đầu lên chơi giải Ngoại_hạng diễn ra vào cuối năm .
+<TimeML>
+Giải hạng Nhất – Cúp Bia Saigon Special <TIMEX3 tid="t3" type="DATE" value="2017">2017</TIMEX3> sẽ tiếp tục diễn ra vào <TIMEX3 tid="t5" type="TIME" value="XXXX-XX-XXTAF">chiều Chủ nhật</TIMEX3> hàng tuần trên sân Bộ Công an , kéo dài trong <TIMEX3 tid="t8" type="DURATION" value="P3M">3 tháng</TIMEX3> để chọn ra 2 đội đứng đầu lên chơi giải Ngoại hạng diễn ra vào <TIMEX3 tid="t2" type="DATE" value="XXXX" mod="END">cuối năm</TIMEX3> .
+</TimeML>
+
+Sau khi Lưu_Bị qua_đời , Gia_Cát_Lượng nắm quyền triều_đình Thục_Hán hơn 10 năm , trong đó có 7 năm khiến đất_nước luôn trong tình_trạng chiến_tranh , bao_gồm một lần Nam chinh và 6 lần Bắc phạt .
+<TimeML>
+<TIMEX3 type="DURATION" mod="AFTER">Sau khi Lưu Bị qua đời</TIMEX3> , Gia Cát Lượng nắm quyền triều đình Thục Hán <TIMEX3 tid="t1" type="DURATION" value="P10Y" mod="MORE_THAN">hơn 10 năm</TIMEX3> , trong đó có <TIMEX3 tid="t2" type="DURATION" value="P7Y">7 năm</TIMEX3> khiến đất nước luôn trong tình trạng chiến tranh , bao gồm một lần Nam chinh và 6 lần Bắc phạt .
+</TimeML>
+
+Tuy_nhiên , 20 phút sau bệnh_nhân Đ. xuất_hiện chảy_máu rỉ_rả trong khoang miệng .
+<TimeML>
+Tuy nhiên , <TIMEX3 tid="t1" type="DURATION" value="P20M" mod="AFTER">20 phút sau</TIMEX3> bệnh nhân Đ. xuất hiện chảy máu rỉ rả trong khoang miệng .
+</TimeML>
+
+Sau khi giảm_giá vé , tính_toán lại phương_án tài_chính , dự_kiến thời_gian thu giá khoảng 15 năm 4 tháng 18 ngày , thời_điểm hoàn vốn dự_kiến là ngày 18/2/2031 , giảm so với hợp_đồng đã ký 1 năm 10 tháng .
+<TimeML>
+<TIMEX3 type="DURATION" mod="AFTER">Sau khi giảm giá vé , tính toán lại phương án tài chính ,</TIMEX3> dự kiến thời gian thu giá <TIMEX3 tid="t10" type="DURATION" value="P15Y4M18D" mod="APPROX">khoảng 15 năm 4 tháng 18 ngày</TIMEX3> , thời điểm hoàn vốn dự kiến là <TIMEX3 tid="t3" type="DATE" value="2031-02-18">ngày 18/2/2031</TIMEX3> , giảm so với hợp đồng đã ký <TIMEX3 tid="t9" type="DURATION" value="P1Y:10M">1 năm 10 tháng</TIMEX3> .
+</TimeML>
+
+" Hai năm qua và đặc_biệt là năm 2017 , ngành Tổ_chức xây_dựng Đảng đã hoàn_thành tốt nhiệm_vụ đặt ra , góp_phần củng_cố và nâng cao niềm tin của nhân_dân với Đảng , đóng_góp có hiệu_quả vào thành_tựu chung của đất_nước " - Tổng_Bí_thư nhấn_mạnh .
+<TimeML>
+" <TIMEX3 tid="t4" type="DURATION" value="P2Y">Hai năm</TIMEX3> qua và đặc biệt là <TIMEX3 tid="t2" type="DATE" value="2017">năm 2017</TIMEX3> , ngành Tổ chức xây dựng Đảng đã hoàn thành tốt nhiệm vụ đặt ra , góp phần củng cố và nâng cao niềm tin của nhân dân với Đảng , đóng góp có hiệu quả vào thành tựu chung của đất nước " - Tổng Bí thư nhấn mạnh .
+</TimeML>
+
+Kết_quả nghiên_cứu cũng chỉ ra rằng đi bộ ít_nhất 30 phút mỗi ngày trong hầu_hết các ngày trong tuần sẽ mang lại lợi_ích rất lớn và việc vận_động khoảng 750 phút mỗi tuần thậm_chí còn cho kết_quả khả_quan hơn rất nhiều .
+<TimeML>
+Kết quả nghiên cứu cũng chỉ ra rằng đi bộ <TIMEX3 tid="t3" type="DURATION" value="P30M" mod="APPROX">ít nhất 30 phút</TIMEX3> <TIMEX3 tid="t1" type="SET" value="P1D" quant="EVERY">mỗi ngày</TIMEX3> trong hầu hết các ngày trong tuần sẽ mang lại lợi ích rất lớn và việc vận động <TIMEX3 tid="t4" type="DURATION" value="P750M" mod="APPROX">khoảng 750 phút</TIMEX3> <TIMEX3 tid="t2" type="SET" value="P1W" quant="EVERY">mỗi tuần</TIMEX3> thậm chí còn cho kết quả khả quan hơn rất nhiều .
+</TimeML>
+
+Thay_vì đến trường như bao bạn nhỏ khác , mỗi ngày Ngọc_Hân đều ở căn tin phụ nhặt rau , bưng_bê , rửa chén phụ bà ngoại .
+<TimeML>
+Thay vì đến trường như bao bạn nhỏ khác , <TIMEX3 tid="t1" type="SET" value="P1D" quant="EVERY">mỗi ngày</TIMEX3> Ngọc Hân đều ở căn tin phụ nhặt rau , bưng bê , rửa chén phụ bà ngoại .
+</TimeML>
+
+Con tôi thường nghe tôi nói
+<TimeML>
+Con tôi thường nghe tôi nói : " Chúng tôi rất may mắn khi có thể cùng nhau làm việc X " <TIMEX3 tid="t1" type="SET" value="P1D" quant="EVERY">mỗi ngày</TIMEX3> .
+</TimeML>
+
+Nạn_nhân là em Th. học_sinh trường THPT Bình_Sơn , nhà ở xã Đôn_Nhân , sáng nay đi học qua địa_bàn xã Phương_Khoan thì gặp nạn .
+<TimeML>
+Nạn nhân là em Th. học sinh trường THPT Bình Sơn , nhà ở xã Đôn Nhân , <TIMEX3 tid="t3" type="TIME" value="XXXX-XX-XXTMO">sáng nay</TIMEX3> đi học qua địa bàn xã Phương Khoan thì gặp nạn .
+</TimeML>
+
+Trên toàn_cầu , mỗi năm có khoảng 5 triệu cái chết có liên_quan đến mức_độ hoạt_động thể_chất thấp .
+<TimeML>
+Trên toàn cầu , <TIMEX3 tid="t1" type="SET" value="P1Y" quant="EVERY">mỗi năm</TIMEX3> có khoảng 5 triệu cái chết có liên quan đến mức độ hoạt động thể chất thấp .
+</TimeML>
+
+Tại buổi làm_việc , Bộ_trưởng Mai_Tiến_Dũng nhấn_mạnh , theo báo_cáo của Viện Nghiên_cứu Quản_lý kinh_tế Trung_ương , mỗi năm , DN phải tiêu tốn khoảng gần 30 triệu ngày_công , hơn 14 nghìn tỷ đồng chi_phí cho kiểm_tra chuyên_ngành .
+<TimeML>
+Tại buổi làm việc , Bộ trưởng Mai Tiến Dũng nhấn mạnh , theo báo cáo của Viện Nghiên cứu Quản lý kinh tế Trung ương , <TIMEX3 tid="t1" type="SET" value="P1Y" quant="EVERY">mỗi năm</TIMEX3> , DN phải tiêu tốn khoảng gần 30 triệu ngày công , hơn 14 nghìn tỷ đồng chi phí cho kiểm tra chuyên ngành .
+</TimeML>
+
+Hiện Trung_Quốc đang là nước cung_cấp nhiều sản_phẩm năng_lượng nhất cho Triều_Tiên , mỗi ngày Trung_Quốc bán cho Triều_Tiên khoảng 15 nghìn thùng dầu_thô và các sản_phẩm năng_lượng , theo tính_toán của Bộ Năng_lượng Mỹ .
+<TimeML>
+Hiện Trung Quốc đang là nước cung cấp nhiều sản phẩm năng lượng nhất cho Triều Tiên , <TIMEX3 tid="t1" type="SET" value="P1D" quant="EVERY">mỗi ngày</TIMEX3> Trung Quốc bán cho Triều Tiên khoảng 15 nghìn thùng dầu thô và các sản phẩm năng lượng , theo tính toán của Bộ Năng lượng Mỹ .
+</TimeML>
+
+Mặc_dù số hồ_sơ bị từ_chối giảm dần sau mỗi tháng nhưng tỷ_lệ vẫn ở mức cao .
+<TimeML>
+Mặc dù số hồ sơ bị từ chối giảm dần sau <TIMEX3 tid="t1" type="SET" value="P1M" quant="EVERY">mỗi tháng</TIMEX3> nhưng tỷ lệ vẫn ở mức cao .
+</TimeML>
+
+Đây là một trong những lợi_ích tốt nhất khi uống nước mật_ong mỗi ngày .
+<TimeML>
+Đây là một trong những lợi ích tốt nhất khi uống nước mật ong <TIMEX3 tid="t1" type="SET" value="P1D" quant="EVERY">mỗi ngày</TIMEX3> .
+</TimeML>
+
+Việc vận_động thể_chất 30 phút mỗi ngày , 5 ngày trong tuần sẽ giúp giảm nguy_cơ tử_vong .
+<TimeML>
+Việc vận động thể chất <TIMEX3 tid="t2" type="DURATION" value="P30M">30 phút</TIMEX3> <TIMEX3 tid="t1" type="SET" value="P1D" quant="EVERY">mỗi ngày</TIMEX3> , <TIMEX3 tid="t3" type="DURATION" value="P5D">5 ngày</TIMEX3> trong tuần sẽ giúp giảm nguy cơ tử vong .
+</TimeML>
+
+Ngoài_ra , xoay quanh vấn_đề lạm_thu , GS Nguyễn_Minh_Thuyết cho rằng học_phí ở các cấp hiện_tại là tượng_trưng khi dừng ở chục nghìn mỗi tháng .
+<TimeML>
+Ngoài ra , xoay quanh vấn đề lạm thu , GS Nguyễn Minh Thuyết cho rằng học phí ở các cấp <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">hiện tại</TIMEX3> là tượng trưng khi dừng ở chục nghìn <TIMEX3 tid="t2" type="SET" value="P1M" quant="EVERY">mỗi tháng</TIMEX3> .
+</TimeML>
+
+Bạn hãy đắp miếng dán nhiệt lạnh lên vùng lưng đau khoảng 20 phút mỗi ngày , liên_tục 2-3 ngày .
+<TimeML>
+Bạn hãy đắp miếng dán nhiệt lạnh lên vùng lưng đau <TIMEX3 tid="t2" type="DURATION" value="P20M" mod="APPROX">khoảng 20 phút</TIMEX3> <TIMEX3 tid="t1" type="SET" value="P1D" quant="EVERY">mỗi ngày</TIMEX3> , liên tục 2-<TIMEX3 tid="t3" type="DURATION" value="P3D">3 ngày</TIMEX3> .
+</TimeML>
+
+Hàng năm , Sở Y_tế tiến_hành đào_tạo và chuyển_giao cho 35 TYT xã_phường thị_trấn quản_lý , điều_trị ngoại_trú THA và từ năm 2017 , mỗi năm triển_khai thêm 15 TYT xã quản_lý bệnh ĐTĐ .
+<TimeML>
+<TIMEX3 tid="t4" type="SET" value="P1Y" quant="EVERY">Hàng năm</TIMEX3> , Sở Y tế tiến hành đào tạo và chuyển giao cho 35 TYT xã phường thị trấn quản lý , điều trị ngoại trú THA và từ <TIMEX3 tid="t2" type="DATE" value="2017">năm 2017</TIMEX3> , <TIMEX3 tid="t5" type="SET" value="P1Y" quant="EVERY">mỗi năm</TIMEX3> triển khai thêm 15 TYT xã quản lý bệnh ĐTĐ .
+</TimeML>
+
+Bố_mẹ cho biết , mỗi ngày cậu lướt FB hơn 10 tiếng , cứ đi học về là ôm điện_thoại , nằm trong phòng lướt , cả lúc ăn hay đi vệ_sinh cũng ôm điện_thoại .
+<TimeML>
+Bố mẹ cho biết , <TIMEX3 tid="t1" type="SET" value="P1D" quant="EVERY">mỗi ngày</TIMEX3> cậu lướt FB hơn 10 tiếng , cứ đi học về là ôm điện thoại , nằm trong phòng lướt , cả lúc ăn hay đi vệ sinh cũng ôm điện thoại .
+</TimeML>
+
+Chiều 22/9 , tại TAND tỉnh Đắk_Nông đã diễn ra Lễ công_bố Quyết_định bổ_nhiệm chức_vụ Phó Chánh_án TAND tỉnh Đắk_Nông cho đồng_chí K ’ Tiêng .
+<TimeML>
+<TIMEX3 tid="t2" type="TIME" value="XXXX-09-22TAF">Chiều 22/9</TIMEX3> , tại TAND tỉnh Đắk Nông đã diễn ra Lễ công bố Quyết định bổ nhiệm chức vụ Phó Chánh án TAND tỉnh Đắk Nông cho đồng chí K ’ Tiêng .
+</TimeML>
+
+Sáng ngày 14/9 , phóng_viên báo Sức_khoẻ Cộng_đồng đã có_mặt tại trường để làm_việc tìm_hiểu , xác_minh thông_tin .
+<TimeML>
+<TIMEX3 tid="t2" type="TIME" value="XXXX-09-14TMO">Sáng ngày 14/9</TIMEX3> , phóng viên báo Sức khoẻ Cộng đồng đã có mặt tại trường để làm việc tìm hiểu , xác minh thông tin .
+</TimeML>
+
+Chiều 22/9 , theo thông_tin từ đội CSGT số 2 , phòng CSGT Công_an tỉnh Thanh_Hoá < / ENAMEX > < / ENAMEX > , trong 2 ngày 20 và 21/9 , đơn_vị này đã bắt_giữ 2 vụ vận_chuyển trái_phép chất ma_tuý , thu_giữ nhiều tang_vật .
+<TimeML>
+<TIMEX3 tid="t4" type="TIME" value="XXXX-09-22TAF">Chiều 22/9</TIMEX3> , theo thông tin từ đội CSGT số 2 , phòng CSGT Công an tỉnh Thanh Hoá < / ENAMEX > < / ENAMEX > , trong <TIMEX3 tid="t5" type="DURATION" value="P2D">2 ngày</TIMEX3> 20 và <TIMEX3 tid="t3" type="DATE" value="XXXX-09-21">21/9</TIMEX3> , đơn vị này đã bắt giữ 2 vụ vận chuyển trái phép chất ma tuý , thu giữ nhiều tang vật .
+</TimeML>
+
+Có_mặt tại xã An_Dương sáng ngày 22/9 , chúng_tôi chứng_kiến rất đông bà_con đến khám và điều_trị bệnh , đa_số là các cụ_già mắc các bệnh THA , ĐTĐ .
+<TimeML>
+Có mặt tại xã An Dương <TIMEX3 tid="t2" type="TIME" value="XXXX-09-22TMO">sáng ngày 22/9</TIMEX3> , chúng tôi chứng kiến rất đông bà con đến khám và điều trị bệnh , đa số là các cụ già mắc các bệnh THA , ĐTĐ .
+</TimeML>
+
+Theo đó , có 3 phụ_huynh xin giấu tên thuật lại với PV sự_việc như sau
+<TimeML>
+Theo đó , có 3 phụ huynh xin giấu tên thuật lại với PV sự việc như sau : tại bữa ăn <TIMEX3 tid="t6" type="TIME" value="XXXX-09-12TMD">trưa ngày 12/9</TIMEX3> – tức <TIMEX3 tid="t2" type="DATE" mod="BEGIN">thứ 2 đầu tuần</TIMEX3> , các em học sinh lớp 3D trường Hoàng Hoa Thám đang tập trung ăn trưa thì tại đĩa ăn của 2 học sinh có phát hiện nhiều con giòi ngoe nguẩy xuất hiện trên đĩa ăn của các em này .
+</TimeML>
+
+Đến chiều ngày 12/9 , người bảo_mẫu lấy từ trong tủ_lạnh một bình sữa 450ml và cho bé gái ăn như thường_lệ .
+<TimeML>
+Đến <TIMEX3 tid="t3" type="TIME" value="XXXX-09-12TAF">chiều ngày 12/9</TIMEX3> , người bảo mẫu lấy từ trong tủ lạnh một bình sữa 450ml và cho bé gái ăn như thường lệ .
+</TimeML>
+
+Chiều 22/9 , trả_lời PV VTC News , bạn Khánh_Vy , học_sinh lớp 10 trường THPT chuyên Hùng_Vương ( Bình_Dương ) - người đăng_tải hình_ảnh lên mạng xã_hội cho biết , đây là đề kiểm_tra 15 phút bộ_môn Vật_lý vào ngày 20/9 .
+<TimeML>
+<TIMEX3 tid="t4" type="TIME" value="XXXX-09-22TAF">Chiều 22/9</TIMEX3> , trả lời PV VTC News , bạn Khánh Vy , học sinh lớp 10 trường THPT chuyên Hùng Vương ( Bình Dương ) - người đăng tải hình ảnh lên mạng xã hội cho biết , đây là đề kiểm tra <TIMEX3 tid="t5" type="DURATION" value="P15M">15 phút</TIMEX3> bộ môn Vật lý vào <TIMEX3 tid="t3" type="DATE" value="XXXX-09-20">ngày 20/9</TIMEX3> .
+</TimeML>
+
+Sáng ngày 5/10/2015 cháu N. ( thời_điểm đó 3 tuổi ) cùng bạn sang nhà ông Vĩnh chơi .
+<TimeML>
+<TIMEX3 tid="t3" type="TIME" value="2015-10-05TMO">Sáng ngày 5/10/2015</TIMEX3> cháu N. ( thời điểm đó 3 tuổi ) cùng bạn sang nhà ông Vĩnh chơi .
+</TimeML>
+
+Thế nhưng , khi tiếp_đón đối_thủ Sacramento_Kings vào sáng ngày 3/2 ( Theo giờ Việt_Nam ) , toàn đội Golden_State_Warriors đã kịp bừng tỉnh để có được chiến_thắng với tỷ_số 119-104 .
+<TimeML>
+Thế nhưng , khi tiếp đón đối thủ Sacramento Kings vào <TIMEX3 tid="t2" type="TIME" value="XXXX-02-03TMO">sáng ngày 3/2</TIMEX3> ( Theo giờ Việt Nam ) , toàn đội Golden State Warriors đã kịp bừng tỉnh để có được chiến thắng với tỷ số 119-104 .
+</TimeML>
+
+Sáng 22/9 , 4 cơ_quan phim_ảnh của Trung_Quốc thống_nhất ra văn_bản khống_chế thù_lao của diễn_viên .
+<TimeML>
+<TIMEX3 tid="t2" type="TIME" value="XXXX-09-22TMO">Sáng 22/9</TIMEX3> , 4 cơ quan phim ảnh của Trung Quốc thống nhất ra văn bản khống chế thù lao của diễn viên .
+</TimeML>
+
+Theo đó , trưa ngày 20-9 , gia_đình ông Cáp_Trọng_Tính ( SN 1950 ) , trú xóm Kiều_Chính , xã Xuân_Phương , huyện Phú_Bình gọi cửa mãi không thấy con trai là Cáp_Trọng_Thành ( SN 1984 ) và vợ là Dương_Thị_Tuyết ( SN 1986 ) nên đã phá cửa vào phòng ngủ , phát_hiện hai người tử_vong từ lâu .
+<TimeML>
+Theo đó , <TIMEX3 tid="t6" type="TIME" value="XXXX-09-20TMD">trưa ngày 20-9</TIMEX3> , gia đình ông Cáp Trọng Tính ( SN <TIMEX3 tid="t3" type="DATE" value="1950">1950</TIMEX3> ) , trú xóm Kiều Chính , xã Xuân Phương , huyện Phú Bình gọi cửa mãi không thấy con trai là Cáp Trọng Thành ( SN <TIMEX3 tid="t4" type="DATE" value="1984">1984</TIMEX3> ) và vợ là Dương Thị Tuyết ( SN <TIMEX3 tid="t5" type="DATE" value="1986">1986</TIMEX3> ) nên đã phá cửa vào phòng ngủ , phát hiện hai người tử vong từ lâu .
+</TimeML>
+
+Đến trưa ngày 24-3 , người_dân phát_hiện xác bà Diệp , trình_báo Công_an .
+<TimeML>
+Đến <TIMEX3 tid="t3" type="TIME" value="XXXX-03-24TMD">trưa ngày 24-3</TIMEX3> , người dân phát hiện xác bà Diệp , trình báo Công an .
+</TimeML>
+
+Theo ghi_nhận của PV , đến chiều 19/9 , cơ_quan_chức_năng mới hoàn_tất công_tác khám_nghiệm hiện_trường .
+<TimeML>
+Theo ghi nhận của PV , đến <TIMEX3 tid="t2" type="TIME" value="XXXX-09-19TAF">chiều 19/9</TIMEX3> , cơ quan chức năng mới hoàn tất công tác khám nghiệm hiện trường .
+</TimeML>
+
+Theo dự_báo thời_tiết , đêm nay và sáng sớm_mai Hà_Nội sẽ có mưa_rào và dông , ngày có mưa vài nơi .
+<TimeML>
+Theo dự báo thời tiết , <TIMEX3 tid="t3" type="TIME" value="XXXX-XX-XXTNI">đêm nay</TIMEX3> và sáng sớm mai Hà Nội sẽ có mưa rào và dông , ngày có mưa vài nơi .
+</TimeML>
+
+Chương_trình diễn định_kỳ vào lúc 20 giờ từ thứ tư đến thứ_bảy , và 10 giờ 30 sáng chủ_nhật hằng tuần tại Nhà_hát Làng Chài ở vòng xoay Nguyễn_Thông , Mũi_Né ( Phan_Thiết ) .
+<TimeML>
+Chương trình diễn định kỳ vào <TIMEX3 tid="t7" type="DURATION" value="P20H" mod="APPROX">lúc 20 giờ</TIMEX3> từ <TIMEX3 tid="t1" type="DATE">thứ tư</TIMEX3> đến <TIMEX3 tid="t2" type="DATE">thứ bảy</TIMEX3> , và <TIMEX3 tid="t8" type="DURATION" value="P10H">10 giờ</TIMEX3> 30 <TIMEX3 tid="t5" type="TIME" value="XXXX-XX-XXTMO">sáng chủ nhật</TIMEX3> <TIMEX3 tid="t6" type="SET" value="P1W" quant="EVERY">hằng tuần</TIMEX3> tại Nhà hát Làng Chài ở vòng xoay Nguyễn Thông , Mũi Né ( Phan Thiết ) .
+</TimeML>
+
+Sáng nay , 22-9 , sau khi di_dời người_dân sống gần địa_điểm phát_hiện quả bom đến_nơi an_toàn , lực_lượng chức_năng đã tiến_hành huỷ nổ thành_công .
+<TimeML>
+<TIMEX3 tid="t3" type="TIME" value="XXXX-XX-XXTMO">Sáng nay</TIMEX3> , 22-9 , sau khi di dời người dân sống gần địa điểm phát hiện quả bom đến nơi an toàn , lực lượng chức năng đã tiến hành huỷ nổ thành công .
+</TimeML>
+
+Nhận được tin báo , Công_an quận Thủ_Đức đã có_mặt tại hiện_trường tiến_hành trích xuất camera an_ninh phát_hiện nhóm đối_tượng đã đột_nhập vào phòng kế_toán khoảng thời_gian lúc 2h10 ' sáng ngày 20/9 .
+<TimeML>
+Nhận được tin báo , Công an quận Thủ Đức đã có mặt tại hiện trường tiến hành trích xuất camera an ninh phát hiện nhóm đối tượng đã đột nhập vào phòng kế toán khoảng thời gian lúc 2h10 ' <TIMEX3 tid="t1" type="TIME" value="XXXX-09-20TMO">sáng ngày 20/9</TIMEX3> .
+</TimeML>
+
+Vụ nổ bom xảy ra vào giờ cao_điểm sáng 15/9 trên một đoàn tàu tại nhà_ga Parsons_Green , một khu dân_cư yên_ắng , đã gây hỗn_loạn và nhà_ga phải đóng_cửa ngay_lập_tức .
+<TimeML>
+Vụ nổ bom xảy ra vào giờ cao điểm <TIMEX3 tid="t2" type="TIME" value="XXXX-09-15TMO">sáng 15/9</TIMEX3> trên một đoàn tàu tại nhà ga Parsons Green , một khu dân cư yên ắng , đã gây hỗn loạn và nhà ga phải đóng cửa ngay lập tức .
+</TimeML>
+
+Sáng 22/9 , Phó Thủ_tướng Trương_Hoà_Bình tiếp Chủ_tịch Nhóm Nghị_sỹ hữu_nghị Hàn_Quốc Việt_Nam Kim Hack-Yong.
+<TimeML>
+<TIMEX3 tid="t2" type="TIME" value="XXXX-09-22TMO">Sáng 22/9</TIMEX3> , Phó Thủ tướng Trương Hoà Bình tiếp Chủ tịch Nhóm Nghị sỹ hữu nghị Hàn Quốc Việt Nam Kim Hack-Yong.
+</TimeML>
+
+Hồi tháng 1 , Bắc_Kinh tuyên_bố mục_tiêu đến cuối tháng 10 sẽ cắt_giảm 30 % sản_lượng nhôm tại 4 trong đó có 2 tỉnh lớn là Hà_Bắc và Sơn_Đông .
+<TimeML>
+Hồi <TIMEX3 tid="t2" type="DATE" value="XXXX-01">tháng 1</TIMEX3> , Bắc Kinh tuyên bố mục tiêu đến <TIMEX3 tid="t4" type="DATE" value="XXXX-10" mod="END">cuối tháng 10</TIMEX3> sẽ cắt giảm 30 % sản lượng nhôm tại 4 trong đó có 2 tỉnh lớn là Hà Bắc và Sơn Đông .
+</TimeML>
+
+Khi Moon_Geun_Young đang chia_sẻ về bộ phim Chị Kế Của_Lọ_Lem thì Seo_Woo lại quay sang nói_chuyện với Taecyeon ( 2 PM ) và cất_tiếng cười một_cách không liên_quan .
+<TimeML>
+<TIMEX3 type="TIME">Khi Moon Geun Young đang chia sẻ về bộ phim Chị Kế Của Lọ Lem</TIMEX3> thì Seo Woo lại quay sang nói chuyện với Taecyeon ( <TIMEX3 tid="t1" type="TIME" value="XXXX-XX-XXT14:00">2 PM</TIMEX3> ) và cất tiếng cười một cách không liên quan .
+</TimeML>
+
+Những học_sinh trước_đây thường_xuyên đánh_bạn , hút thuốc , uống rượu , vi_phạm nội_quy trong trường , nay nhờ công_tác tư_vấn kịp_thời của các thầy_cô tổ tư_vấn các em đã có nhiều biến_chuyển tích_cực .
+<TimeML>
+Những học sinh <TIMEX3 type="DURATION" mod="BEFORE">trước đây</TIMEX3> thường xuyên đánh bạn , hút thuốc , uống rượu , vi phạm nội quy trong trường , <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">nay</TIMEX3> nhờ công tác tư vấn kịp thời của các thầy cô tổ tư vấn các em đã có nhiều biến chuyển tích cực .
+</TimeML>
+
+Tại cuộc làm_việc , Bộ_trưởng Ngô_Xuân_Lịch đã nghe lãnh_đạo tỉnh Lào_Cai báo_cáo kết_quả thực_hiện nhiệm_vụ của địa_phương trong thời_gian qua .
+<TimeML>
+Tại cuộc làm việc , Bộ trưởng Ngô Xuân Lịch đã nghe lãnh đạo tỉnh Lào Cai báo cáo kết quả thực hiện nhiệm vụ của địa phương trong thời gian qua .
+</TimeML>
+
+Hồi năm 2006 , trong chuyến viếng_thăm Bắc_Kinh của quốc_vương Ả-rập Saudi , ông Abdullah , 2 bên đã thiết_lập mối quan_hệ hợp_tác giữa Tổng_công_ty Xăng_dầu Trung_Quốc ( CNPC ) và Saudi .
+<TimeML>
+Hồi <TIMEX3 tid="t2" type="DATE" value="2006">năm 2006</TIMEX3> , trong chuyến viếng thăm Bắc Kinh của quốc vương Ả-rập Saudi , ông Abdullah , 2 bên đã thiết lập mối quan hệ hợp tác giữa Tổng công ty Xăng dầu Trung Quốc ( CNPC ) và Saudi .
+</TimeML>
+
+Con_giáp nào sẽ gặp may_mắn , vận_mệnh suốt cả đời nếu sinh vào tháng này ?
+<TimeML>
+Con giáp nào sẽ gặp may mắn , vận mệnh suốt cả đời nếu sinh vào <TIMEX3 tid="t1" type="DATE" value="XXXX-XX">tháng này</TIMEX3> ?
+</TimeML>
+
+Ngay cả gia_đình của cô bé cũng không_thể sống một ngày mà không nơm_nớp lo_lắng , phải dùng mọi biện_pháp để bảo_vệ sự an_toàn cho cô con gái nhỏ .
+<TimeML>
+Ngay cả gia đình của cô bé cũng không thể sống <TIMEX3 tid="t1" type="DURATION" value="P1D">một ngày</TIMEX3> mà không nơm nớp lo lắng , phải dùng mọi biện pháp để bảo vệ sự an toàn cho cô con gái nhỏ .
+</TimeML>
+
+Tấm nệm chỉ được ném vào cho nó vào buổi tối và sáng hôm sau sẽ bị dọn đi .
+<TimeML>
+Tấm nệm chỉ được ném vào cho nó vào buổi tối và <TIMEX3 tid="t3" type="TIME" value="XXXX-XX-XXTMO">sáng hôm sau</TIMEX3> sẽ bị dọn đi .
+</TimeML>
+
+Với hơn 40 năm hình_thành và phát_triển , Fahasa đã có 25 nhà_sách tại TP. HCM , 19 nhà_sách tại các tỉnh miền Tây_Nam_bộ , 19 nhà_sách tại Đông_Nam_bộ , 4 nhà_sách tại Tây_Nguyên , 15 nhà_sách tại Nam_Trung_bộ , 6 nhà_sách tại Bắc_Trung_bộ , 12 nhà_sách tại Hà_Nội và các tỉnh miền Bắc .
+<TimeML>
+Với <TIMEX3 tid="t1" type="DURATION" value="P40Y" mod="MORE_THAN">hơn 40 năm</TIMEX3> hình thành và phát triển , Fahasa đã có 25 nhà sách tại TP. HCM , 19 nhà sách tại các tỉnh miền Tây Nam bộ , 19 nhà sách tại Đông Nam bộ , 4 nhà sách tại Tây Nguyên , 15 nhà sách tại Nam Trung bộ , 6 nhà sách tại Bắc Trung bộ , 12 nhà sách tại Hà Nội và các tỉnh miền Bắc .
+</TimeML>
+
+Đặc_biệt , Uỷ_ban đã tổ_chức thành_công Lễ tuyên_dương người có uy_tín , nhân_sỹ trí_thức và doanh_nhân tiêu_biểu dân_tộc_thiểu_số năm 2017 tại Thủ_đô Hà_Nội .
+<TimeML>
+Đặc biệt , Uỷ ban đã tổ chức thành công Lễ tuyên dương người có uy tín , nhân sỹ trí thức và doanh nhân tiêu biểu dân tộc thiểu số <TIMEX3 tid="t2" type="DATE" value="2017">năm 2017</TIMEX3> tại Thủ đô Hà Nội .
+</TimeML>
+
+Theo Bloomberg , tổng chi_phí sở_hữu ( TCO ) của các loại xe chạy bằng điện và nhiên_liệu hoá_thạch sẽ cân_bằng vào năm 2020 đối_với các dịch_vụ chia_sẻ xe , sớm hơn 5 năm so với các xe do cá_nhân sở_hữu .
+<TimeML>
+Theo Bloomberg , tổng chi phí sở hữu ( TCO ) của các loại xe chạy bằng điện và nhiên liệu hoá thạch sẽ cân bằng vào <TIMEX3 tid="t2" type="DATE" value="2020">năm 2020</TIMEX3> đối với các dịch vụ chia sẻ xe , sớm <TIMEX3 tid="t4" type="DURATION" value="P5Y" mod="MORE_THAN">hơn 5 năm</TIMEX3> so với các xe do cá nhân sở hữu .
+</TimeML>
+
+Phát_biểu khai_mạc Hội_nghị , Thứ_trưởng Nguyễn_Quốc_Dũng cho biết , hiện_nay , cuộc đấu_tranh chống tham_nhũng đang được triển_khai hết_sức quyết_liệt với sự phát_động và lãnh_đạo của Đảng và Nhà_nước cũng như sự hưởng_ứng nhiệt_tình , ủng_hộ của nhân_dân cả trong và ngoài nước .
+<TimeML>
+Phát biểu khai mạc Hội nghị , Thứ trưởng Nguyễn Quốc Dũng cho biết , hiện <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">nay</TIMEX3> , cuộc đấu tranh chống tham nhũng đang được triển khai hết sức quyết liệt với sự phát động và lãnh đạo của Đảng và Nhà nước cũng như sự hưởng ứng nhiệt tình , ủng hộ của nhân dân cả trong và ngoài nước .
+</TimeML>
+
+Núi_lửa ở núi Agung từng nhiều lần phun trào trong các năm 1963 , 1964 , cướp đi sinh_mạng của hơn 1.000 người và khiến hàng trăm người bị_thương .
+<TimeML>
+Núi lửa ở núi Agung từng nhiều lần phun trào trong các <TIMEX3 tid="t2" type="DATE" value="1963">năm 1963</TIMEX3> , <TIMEX3 tid="t4" type="DATE" value="1964">1964</TIMEX3> , cướp đi sinh mạng của hơn 1.000 người và khiến hàng trăm người bị thương .
+</TimeML>
+
+Sau đó , anh còn ghi thêm 2 bàn thắng nữa trong 15 phút , và cùng với Minh_Đan , Quốc_Hoàng giúp Việt_Nam dẫn 7-0 ở phút 65 .
+<TimeML>
+<TIMEX3 type="DURATION" mod="AFTER">Sau đó ,</TIMEX3> anh còn ghi thêm 2 bàn thắng nữa trong <TIMEX3 tid="t1" type="DURATION" value="P15M">15 phút</TIMEX3> , và cùng với Minh Đan , Quốc Hoàng giúp Việt Nam dẫn 7-0 ở phút 65 .
+</TimeML>
+
+Trưa ngày hôm sau , thi_thể chị Diệp được người_dân phát_hiện , trình_báo Công_an .
+<TimeML>
+Trưa ngày <TIMEX3 tid="t1" type="DATE" value="XXXX-XX-XX">hôm sau</TIMEX3> , thi thể chị Diệp được người dân phát hiện , trình báo Công an .
+</TimeML>
+
+Sau khi ra trường đi làm được 2 năm , tôi nhất_quyết đòi lấy anh hàng_xóm ngay sát nhà .
+<TimeML>
+Sau khi ra trường đi làm được <TIMEX3 tid="t1" type="DURATION" value="P2Y">2 năm</TIMEX3> , tôi nhất quyết đòi lấy anh hàng xóm ngay sát nhà .
+</TimeML>
+
+Ngày 7-8 vừa_qua , UBND TP Hà_Nội có Công_văn số 3824 / UBND-KT về việc thông_báo danh_mục các đơn_vị sự_nghiệp công_lập đủ điều_kiện được nhà_nước xác_định giá_trị tài_sản để giao cho đơn_vị quản_lý theo cơ_chế giao vốn cho doanh_nghiệp .
+<TimeML>
+<TIMEX3 tid="t2" type="DATE" value="XXXX-08-07">Ngày 7-8</TIMEX3> vừa qua , UBND TP Hà Nội có Công văn số 3824 / UBND-KT về việc thông báo danh mục các đơn vị sự nghiệp công lập đủ điều kiện được nhà nước xác định giá trị tài sản để giao cho đơn vị quản lý theo cơ chế giao vốn cho doanh nghiệp .
+</TimeML>
+
+19 giờ ngày 22.9 , tại bờ kè - công_viên Nguyễn_Phương_Danh , TT. Phong_Điền , H.Phong Điền , TP. Cần_Thơ , Ngày hội Du_lịch sinh_thái Phong_Điền - Cần_Thơ năm 2017 đã chính_thức khai_mạc .
+<TimeML>
+<TIMEX3 tid="t1" type="DURATION" value="P19H">19 giờ</TIMEX3> ngày 22.9 , tại bờ kè - công viên Nguyễn Phương Danh , TT. Phong Điền , H.Phong Điền , TP. Cần Thơ , Ngày hội Du lịch sinh thái Phong Điền - Cần Thơ <TIMEX3 tid="t3" type="DATE" value="2017">năm 2017</TIMEX3> đã chính thức khai mạc .
+</TimeML>
+
+Dù đồng Bitcoin có mức tăng_giá hơn 1.300% trong năm 2017 , trong vài tháng qua , các đồng Altcoin đã vọt lên mạnh_mẽ , vượt xa Bitcoin về mức tăng , khiến tỷ_trọng vốn hoá của tiền ảo này nhanh_chóng giảm xuống .
+<TimeML>
+Dù đồng Bitcoin có mức tăng giá hơn 1.300% trong <TIMEX3 tid="t2" type="DATE" value="2017">năm 2017</TIMEX3> , trong <TIMEX3 tid="t4" type="DURATION" value="PXM" mod="APPROX">vài tháng</TIMEX3> qua , các đồng Altcoin đã vọt lên mạnh mẽ , vượt xa Bitcoin về mức tăng , khiến tỷ trọng vốn hoá của tiền ảo này nhanh chóng giảm xuống .
+</TimeML>
+
+Spencer và con chuyển đến Úc sống 7 tháng nhưng không_thể xin thêm thị_thực .
+<TimeML>
+Spencer và con chuyển đến Úc sống <TIMEX3 tid="t1" type="DURATION" value="P7M">7 tháng</TIMEX3> nhưng không thể xin thêm thị thực .
+</TimeML>
+
+Tháng 6 , cặp chị_em ra_mắt sản_phẩm áo_phông số_lượng hạn_chế mang tên Kendall + Kylie .
+<TimeML>
+<TIMEX3 tid="t1" type="DATE" value="XXXX-06">Tháng 6</TIMEX3> , cặp chị em ra mắt sản phẩm áo phông số lượng hạn chế mang tên Kendall + Kylie .
+</TimeML>
+
+Thứ hai là ngày đi học đầu tuần .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t1" type="DATE">Thứ hai</TIMEX3> là ngày đi học <TIMEX3 tid="t2" type="DATE" value="XX" mod="START">đầu tuần</TIMEX3> .
+</TimeML>
+
+Cuối ngày 20/8/2024 tôi được nghỉ .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t6" type="DATE" value="2024-08-20" mod="END">Cuối ngày 20/8/2024</TIMEX3> tôi được nghỉ .
+</TimeML>
+
+Cuối ngày 20-8 tôi được nghỉ .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t4" type="DATE" value="XXXX-08-20" mod="END">Cuối ngày 20-8</TIMEX3> tôi được nghỉ .
+</TimeML>
+
+Tôi được nghỉ đến cuối ngày 20 .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Tôi được nghỉ đến <TIMEX3 tid="t2" type="DATE" value="20" mod="END">cuối ngày 20</TIMEX3> .
+</TimeML>
+
+Đầu tuần sau tôi phải đi học .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t4" type="DATE" value="XXXX-WXX" mod="START">Đầu tuần sau</TIMEX3> tôi phải đi học .
+</TimeML>
+
+Tôi đã nghỉ học từ 3 năm trước .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Tôi đã nghỉ học từ <TIMEX3 tid="t3" type="DURATION" value="P3Y" mod="BEFORE">3 năm trước</TIMEX3> .
+</TimeML>
+
+Tôi sẽ tốt nghiệp vào cuối năm .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Tôi sẽ tốt nghiệp vào <TIMEX3 tid="t1" type="DATE" value="XXXX" mod="END">cuối năm</TIMEX3> .
+</TimeML>
+
+Tôi sẽ đi du lịch vào đầu tuần này .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Tôi sẽ đi du lịch vào <TIMEX3 tid="t2" type="DATE" value="XXXX-WXX">đầu tuần này</TIMEX3> .
+</TimeML>
+
+Khoa Toán sẽ họp vào cuối ngày 20 .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Khoa Toán sẽ họp vào <TIMEX3 tid="t2" type="DATE" value="XXXX-XX-20" mod="END">cuối ngày 20</TIMEX3> .
+</TimeML>
+
+Tôi sẽ bảo vệ vào đầu ngày 30/6/24 .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Tôi sẽ bảo vệ vào <TIMEX3 tid="t4" type="DATE" value="2024-06-30">đầu ngày 30/6/24</TIMEX3> .
+</TimeML>
+
+Tôi sẽ bắt đầu kì học mới vào thứ 4 .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Tôi sẽ bắt đầu kì học mới vào <TIMEX3 tid="t1" type="DATE">thứ 4</TIMEX3> .
+</TimeML>
+
+Tôi sẽ đi chơi vào thứ bẩy cuối tuần .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Tôi sẽ đi chơi vào <TIMEX3 tid="t1" type="DATE" mod="END">thứ bẩy cuối tuần</TIMEX3> .
+</TimeML>
+
