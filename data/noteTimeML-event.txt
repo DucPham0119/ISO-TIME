@@ -1,0 +1,16 @@
+Hôm nay, tôi đi học vào lúc 8h sáng.
+
+TIMEX3: Hôm nay, 8h sáng.
+Event: đi học
+obl:tmod --> phụ thuộc vào cái gì --> event
+Các thuộc tính của event:
+- ID
+- Class: 
+	- reporting (nói, báo cáo, giải thích, ...), 
+	- PERCEPTION (nhìn thấy, xem, nghe, ...), 
+	- Aspectual (bắt đầu, cài đặt, khởi động, ...), 
+	- I-action: thử, đầu tư, hoãn, ...
+	- I-state: hi vọng, cảm thấy, chuẩn bị, ...
+	- State: sống, ...
+	- Occurrence: tới, mượn, phân bố, có, ...
+- Stem: 

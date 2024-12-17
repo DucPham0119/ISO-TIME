@@ -1,0 +1,52 @@
+# dp không có timex3 bắt đầu bằng sau/trước <TIMEX3 tid="t1" type="DURATION" mod="BEFORE/AFTER">sau khi ngủ dậy</TIMEX3>
+# dp không có timex3 bắt đầu bằng khi/trong khi <TIMEX3 tid="t1" type="TIME">trong khi làm bài tập</TIMEX3>
+
+#D# 22/12 => heideltime ko bắt dc | vn_date_r0g | daterule
+#D# phút 55 => ko bắt đc | change_phut | timerule
+
+# xóa 2 luật bên daterule -> durationrule | change_vn_date_r20a | change_vn_date_r19a
+#D# 3 phút/ngày/tháng/năm sau => heidel: phút sau | change_vn_date_r20a | durationrule
+#D# 3 phút/ngày/tháng/năm trước => heidel: phút sau | change_vn_date_r19a | durationrule
+
+#D# nhiều một năm trước -> heidel time đang bắt như này: đúng là một năm trc | change_vn_date_r19b | số | daterule
+#D# nhiều một năm trước -> heidel time đang bắt như này: đúng là một năm trc | change_vn_date_r19c | chữ số | daterule
+#D# cuối/đầu năm/ heidel không bắt được | change_vn_date_r16c | daterule
+#D# cuối/đầu tháng/  heidel không bắt được | change_vn_date_r16e | daterule
+#D# cuối/đầu tuần/giờ/ngày  heidel không bắt được |change_vn_date_r16h | daterule
+#D# cuối/đầu ngày + số heidel không bắt được | change_vn_date_r16i | daterule
+#D# 3 luật: đầu/cuối ngày + tháng heidel ko bắt được | change_vn_date_r16j | change_vn_date_r16j1 | change_vn_date_r16j2 | daterule
+#D# 3 luật đầu/cuối ngày + tháng + năm (4 số) heidel không bắt được | change_vn_date_r16k | change_vn_date_r16k1 | change_vn_date_r16k2 | daterule
+#D# 3 luật đầu/cuối ngày + tháng + năm (2 số) heidel không bắt được | change_vn_date_r16l | change_vn_date_r16l1 | change_vn_date_r16l2 | daterule
+#D# bổ xung thêm pattern reWeekday => ảnh hưởng 15 luật trong daterule, 1 luật setrule, 5 luật trong timerule
+#D# bổ xung thêm normalization normDayInWeek => ảnh hưởng 2 luật trong daterule, 1 luật setrule
+#D# thứ 2 đầu tuần heidel ko có | change_vn_date_001 | daterule
+#D# thứ 7/chủ nhật cuối tuần heidel ko có | change_vn_date_002 | change_vn_date_003 | daterule
+#D# các thứ trong tuần: thứ hai, thứ 2 - heidel ko có | change_vn_date_004 | daterule
+#D# hàng tuần/năm/tháng heidel ko có | change_vn_set_r1a | setrule
+
+# Cập nhật normUnit4Duration ảnh hưởng đến 8 luật trong durationrule
+#D# bao nhiêu ngày bao nhiêu tháng bao nhiêu năm (20 năm 18 tháng 2 ngày) heidel ko có | change_vn_duration_r1b2 | durationrule
+#D# bao nhiêu ngày bao nhiêu tháng (20 năm 18 tháng) heidel ko có | change_vn_duration_r1b1 | durationrule
+
+#D# ngày 20 heidel ko có | change_ngay | daterule
+
+Update: 
+
+::Sau đó 2 năm => Heildtime: 2 năm  -> gold: sau đó 2 năm
+
+những năm đầu tiên => heidel: những năm
+đầu giờ chiều => heidel bắt được đầu giờ thiếu chiều
+hơn 10 tiếng => heidel: ko lấy được
+20 và 21/9 => ko lấy được
+thứ 2 đầu tuần => ko lấy đươc
+Sáng sớm mai type="TIME" value="XXXX-XX-XXTMO" => ko lấy được 
+Từ thứ tư đến thứ bảy (Thứ 4, Thứ 7) type="DATE" => ko lấy được
+10 giờ 30 => heidel: 10 giờ
+22-9 => ko lấy được
+2h10 ' sáng ngày 20/9 value="XXXX-09-20T2:10" => heidel: sáng ngày 20/9
+
+trong thời gian qua ???????????
+buổi tối => ko lấy được
+trưa ngày hôm sau => heidel: hôm sau
+19 giờ ngày 22.9 => heidel: 19 giờ 
+2 ngày lẫn đêm? => rule duration => bổ xung.

@@ -1,0 +1,207 @@
+Dù chỉ được biên chế trong 9 năm , Regulus đã mang lại nhiều kinh nghiệm cho Mỹ trong hoạt động răn đe hạt nhân trên biển , cũng như xây dựng nền tảng cho dòng tên lửa hành trình Tomahawk sau này .
+<TIMEML>
+Dù chỉ được biên chế trong <TIMEX3 tid="t1" type="DURATION" value="P9Y">9 năm</TIMEX3> , Regulus đã <EVENT eid="e1" class="OCCURRENCE"> mang lại </EVENT> nhiều kinh nghiệm cho Mỹ trong hoạt động <EVENT eid="e3" class="OCCURRENCE"> răn đe</EVENT> hạt nhân trên biển , cũng như <EVENT eid="e2" class="OCCURRENCE"> xây dựng </EVENT> nền tảng cho dòng tên lửa hành trình Tomahawk <TIMEX3 tid="t2" type="DURATION" mod="AFTER">sau này</TIMEX3> .
+</TIMEML>
+
+Tương tự như khi mã hoá , quá trình gỡ mã hoá có thể diễn ra trong vài giờ .
+<TIMEML>
+Tương tự như <TIMEX3 tid="t2" type='DURATION'>khi <EVENT eid="e1" class="OCCURRENCE">mã hoá </EVENT> </TIMEX3> , quá trình <EVENT eid="e2" class="OCCURRENCE">gỡ mã hoá </EVENT> có thể <EVENT eid="e3" class="ASPECTUAL"> diễn ra</EVENT> trong <TIMEX3 tid="t1" type="DURATION" value="PXH" mod="APPROX">vài giờ</TIMEX3> .
+</TIMEML>
+
+Năm 2017 , chiến dịch lấy chủ đề `` Quản lý rác thải vì môi trường nông thôn bền vững . trường Bộ Tài nguyên và Môi trường phối hợp với ' ' ' ' UBND tỉnh Hoà Bình tổ chức các hoạt động cấp quốc gia hưởng ứng chiến dịch trong hai ngày 22 và 23-9 .
+<TIMEML>
+<TIMEX3 tid="t2" type="DATE" value="2017">Năm 2017</TIMEX3> , chiến dịch lấy chủ đề `` Quản lý rác thải vì môi trường nông thôn bền vững . trường Bộ Tài nguyên và Môi trường <EVENT eid="e2" class="OCCURRENCE">phối hợp</EVENT> với ' ' ' ' UBND tỉnh Hoà Bình <EVENT eid="e3" class="OCCURRENCE">tổ chức</EVENT> các hoạt động cấp quốc gia <EVENT eid="e4" class="OCCURRENCE">hưởng ứng</EVENT> chiến dịch trong <TIMEX3 tid="t4" type="DURATION" value="P2D">hai ngày</TIMEX3> <TIMEX3 tid="t3" type="DATE" value="2017-09-22">22</TIMEX3> và <TIMEX3 tid="t1" type="DATE" value="2017-09-23">23-9</TIMEX3> .
+</TIMEML>
+
+5 . Người phạm tội còn có thể bị cấm đảm nhiệm chức vụ , cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm . ”
+<TIMEML>
+5 . Người phạm tội còn có thể bị <EVENT eid="e2" class="I_STATE"> cấm</EVENT> <EVENT eid="e3" class="OCCURRENCE">đảm nhiệm</EVENT> chức vụ , <EVENT eid="e4" class="I_STATE">cấm</EVENT> <EVENT eid="e5" class="OCCURRENCE">hành nghề</EVENT> hoặc <EVENT eid="e5" class="OCCURRENCE">làm</EVENT> công việc nhất định từ <TIMEX3 tid="t1" type="DURATION" value="P01Y">01 năm</TIMEX3> đến <TIMEX3 tid="t2" type="DURATION" value="P05Y">05 năm</TIMEX3> . ”
+</TIMEML>
+
+Ông Nghĩa kê khai mình nguyên là Bí thư chi bộ xã Thới Thạnh giai đoạn 1967 - 1971 , bị địch bắt cuối năm 1971 .
+<TIMEML>
+Ông Nghĩa <EVENT eid="e1" class="REPORTING">kê khai</EVENT> mình nguyên là Bí thư chi bộ xã Thới Thạnh giai đoạn <TIMEX3 tid="t4" type="DATE" value="1967">1967</TIMEX3> - <TIMEX3 tid="t5" type="DATE" value="1971">1971</TIMEX3> , bị địch <EVENT eid="e3" class="OCCURRENCE">bắt</EVENT> <TIMEX3 tid="t3" type="DATE" value="1971" mod="END">cuối năm 1971</TIMEX3> .
+</TIMEML>
+
+Vấn đề kiểm tra an toàn thực phẩm đang thu hút sự quan tâm lớn của cộng đồng DN và nếu trường hợp mặt hàng nhập khẩu đạt yêu cầu sau 3 lần kiểm tra liên tiếp trong 12 tháng sẽ được miễn kiểm tra về an toàn thực phẩm , đây là một đột phá về cải cách , tạo thuận lợi cho DN .
+<TIMEML>
+Vấn đề <EVENT eid="e1" class="OCCURRENCE">kiểm tra</EVENT> an toàn thực phẩm đang <EVENT eid="e2" class="I_STATE">thu hút</EVENT> sự quan tâm lớn của cộng đồng DN và nếu trường hợp mặt hàng nhập khẩu <EVENT eid="e3" class="STATE">đạt</EVENT> yêu cầu <TIMEX3 tid="t2" type="DURATION" mod="AFTER"> sau 3 lần kiểm tra liên tiếp </TIMEX3> trong <TIMEX3 tid="t1" type="DURATION" value="P1Y">12 tháng</TIMEX3> sẽ được  <EVENT eid="e4" class="I_STATE">miễn </EVENT> <EVENT eid="e5" class="OCCURRENCE">kiểm tra</EVENT> về an toàn thực phẩm , đây là một đột phá về cải cách , <EVENT eid="e7" class="OCCURRENCE">tạo</EVENT> thuận lợi cho DN .
+</TIMEML>
+
+Trưa 12-10-2010 , Miên đi xe ôm đến chung cư của bà Nam ở quận Phú Nhuận thì thấy Thảo đã đợi sẵn .
+<TIMEML>
+<TIMEX3 tid="t3" type="TIME" value="2010-10-12TMD">Trưa 12-10-2010</TIMEX3> , Miên <EVENT eid="e1" class="OCCURRENCE">đi</EVENT>  xe ôm đến chung cư của bà Nam ở quận Phú Nhuận thì <EVENT eid="e3" class="PERCEPTION">thấy</EVENT> Thảo đã <EVENT eid="e4" class="STATE">đợi</EVENT> sẵn .
+</TIMEML>
+
+Theo ông Nguyễn Vũ Trường Sơn , Tổng giám đốc tại buổi làm việc chiều nay tại Bộ Công thương , tình trạng hiện tại của dự án PVTex là hết sức khó khăn và nhà máy vẫn chưa khởi động lại .
+<TIMEML>
+Theo ông Nguyễn Vũ Trường Sơn , Tổng giám đốc tại buổi <EVENT eid="e5" class="OCCURRENCE">làm việc</EVENT> <TIMEX3 tid="t4" type="TIME" value="XXXX-XX-XXTAF">chiều nay</TIMEX3> tại Bộ Công thương , tình trạng <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">hiện tại</TIMEX3> của dự án PVTex là hết sức khó khăn và nhà máy vẫn chưa <EVENT eid="e3" class="ASPECTUAL">khởi động lại</EVENT> .
+</TIMEML>
+
+Siêu bão Maria đã đi qua , thời tiết ở Puerto Rico cũng đã tốt hơn nhưng người dân có thể sẽ phải sống trong cảnh thiếu điện khoảng 6 tháng nữa .
+<TIMEML>
+Siêu bão Maria đã <EVENT eid="e1" class="OCCURRENCE">đi qua</EVENT> , thời tiết ở Puerto Rico cũng đã <EVENT eid="e2" class="STATE">tốt hơn</EVENT> nhưng người dân có thể sẽ phải <EVENT eid="e3" class="STATE">sống</EVENT> trong cảnh thiếu điện <TIMEX3 tid="t1" type="DURATION" value="P6M" mod="APPROX">khoảng 6 tháng</TIMEX3> nữa .
+</TIMEML>
+
+Người ta tin rằng con cá sấu này đã chết vài ngày trước khi một người dân phát hiện và thông báo cho các nhân viên môi trường .
+<TIMEML>
+Người ta <EVENT eid="e1" class="I_STATE">tin</EVENT> rằng con cá sấu này đã <EVENT eid="e2" class="OCCURRENCE">chết</EVENT> <TIMEX3 tid="t2" type="DATE" value="PAST_REF">vài ngày trước</TIMEX3> <TIMEX3 tid="t3" type="TIME">khi một người dân <EVENT eid="e3" class="OCCURRENCE">phát hiện</EVENT> và <EVENT eid="e4" class="REPORTING">thông báo</EVENT> cho các nhân viên môi trường</TIMEX3> .
+</TIMEML>
+
+Trong 90 ngày , Hà được tiếp cận với kiến thức chuyên môn và thực hành các kỹ năng giao tiếp mới .
+<TIMEML>
+Trong <TIMEX3 tid="t1" type="DURATION" value="P90D">90 ngày</TIMEX3> , Hà được <EVENT eid="e1" class="OCCURRENCE">tiếp cận</EVENT> với kiến thức chuyên môn và <EVENT eid="e2" class="OCCURRENCE">thực hành</EVENT> các kỹ năng giao tiếp mới .
+</TIMEML>
+
+Tuy nhiên , thời gian gần đây , bà Phượng bỗng dưng `` biến mất khỏi địa phương khiến họ vô cùng lo lắng .
+<TIMEML>
+Tuy nhiên , thời gian <TIMEX3 tid="t1" type="DURATION" value="PAST_REF">gần đây</TIMEX3> , bà Phượng bỗng dưng `` <EVENT eid="e1" class="STATE">biến mất</EVENT> khỏi địa phương khiến họ vô cùng <EVENT eid="e1" class="I_STATE">lo lắng </EVENT> .
+</TIMEML>
+
+Khoảng 23 giờ ngày 20/9 , khi đang hoạt động trên biển tại toạ độ 13 ' ' N , 111 ' ' E , cách vùng biển Tuy Hoà ( Phú Yên ) khoảng 100 hải lý thì tàu QNg 95183 TS đã đâm vào một vật thể lạ , cú đâm nặng khiến tàu của ông Trung bị phá nước .
+<TIMEML>
+<TIMEX3 tid="t2" type="TIME" value="XXXX-09-20T23:00" mod="APPROX">Khoảng 23 giờ ngày 20/9</TIMEX3> , <TIMEX3 tid="t3" type="TIME">khi đang <EVENT eid="e1" class="OCCURRENCE">hoạt động</EVENT> trên biển tại toạ độ 13 ' ' N , 111 ' ' E , cách vùng biển Tuy Hoà ( Phú Yên ) khoảng 100 hải lý </TIMEX3> thì tàu QNg 95183 TS đã <EVENT eid="e2" class="OCCURRENCE">đâm</EVENT> vào một vật thể lạ , cú <EVENT eid="e3" class="OCCURRENCE">đâm</EVENT> nặng khiến tàu của ông Trung bị <EVENT eid="e4" class="STATE">phá nước </EVENT>.
+</TIMEML>
+
+Mua mỗi bỉm , tháng 3 trăm nghìn , ăn của mẹ ngày 50 nghìn .
+<TIMEML>
+<EVENT eid="e1" class="I_ACTION">Mua</EVENT> mỗi bỉm , <TIMEX3 tid="t1" type="DURATION" value="P1M">tháng </TIMEX3> 3 trăm nghìn , <EVENT eid="e2" class="I_ACTION">ăn</EVENT> của mẹ ngày 50 nghìn .
+</TIMEML>
+
+Trước đó 5 năm , một người phụ nữ sống tại TP Tây An còn mua một con chó với giá 4 triệu NDT và đón chào nó bằng đoàn xe hơi 30 chiếc ở sân bay .
+<TIMEML>
+Trước đó <TIMEX3 tid="t1" type="DURATION" value="P5Y">5 năm</TIMEX3> , một người phụ nữ <EVENT eid="e1" class="STATE">sống</EVENT> tại TP Tây An còn <EVENT eid="e1" class="I_ACTION">mua</EVENT> một con chó với giá 4 triệu NDT và <EVENT eid="e2" class="OCCURRENCE">đón chào</EVENT> nó bằng đoàn xe hơi 30 chiếc ở sân bay .
+</TIMEML>
+
+Theo đó , cách đây khoảng 1 tháng , bóng đá Croatia rúng động khi cựu giám đốc điều hành của CLB Dinamo Zagreb Zdravko Mamic bị một nhóm côn đồ bắn vào chân .
+<TIMEML>
+Theo đó , cách đây <TIMEX3 tid="t1" type="DURATION" value="P1M" mod="APPROX">khoảng 1 tháng</TIMEX3> , bóng đá Croatia <EVENT eid="e1" class="STATE">rúng động</EVENT> <TIMEX3 tid="t3" type="TIME">khi cựu giám đốc điều hành của CLB Dinamo Zagreb Zdravko Mamic bị một nhóm côn đồ <EVENT eid="e2" class="OCCURRENCE">bắn</EVENT> vào chân </TIMEX3> .
+</TIMEML>
+
+Năm 1927 đánh dấu việc A T&T ra mắt dịch vụ điện thoại đường dài tới London bằng cách sử dụng đài phát thanh hai chiều , với chi phí 75 USD trong 5 phút .
+<TIMEML>
+<TIMEX3 tid="t2" type="DATE" value="1927">Năm 1927</TIMEX3> <EVENT eid="e1" class="OCCURRENCE">đánh dấu</EVENT> việc A T&T <EVENT eid="e2" class="OCCURRENCE">ra mắt</EVENT> dịch vụ điện thoại đường dài tới London bằng cách <EVENT eid="e3" class="OCCURRENCE">sử dụng</EVENT> đài phát thanh hai chiều , với chi phí 75 USD trong <TIMEX3 tid="t4" type="DURATION" value="P5M">5 phút</TIMEX3> .
+</TIMEML>
+
+Theo tính toán của các nhà khoa học Mỹ thì cuộc Đại Tuyệt chủng lần thứ 6 đang ở mức đáng báo động rồi và chúng có thể diễn ra vào cuối thế kỷ này .
+<TIMEML>
+Theo tính toán của các nhà khoa học Mỹ thì cuộc Đại Tuyệt chủng lần thứ 6 đang ở mức đáng <EVENT eid="e1" class="STATE">báo động </EVENT>rồi và chúng có thể <EVENT eid="e2" class="OCCURRENCE">diễn ra</EVENT> vào <TIMEX3 tid="t2" type="DATE" value="XX" mod="END">cuối thế kỷ này</TIMEX3> .
+</TIMEML>
+
+Trong những năm qua , nhà chức trách Hàn Quốc và Nhật Bản đau đầu vì tình trạng dân số ngày càng già đi , tỷ suất sinh sụt giảm dần và người trẻ lười hẹn hò , kết hôn .
+<TIMEML>
+Trong <TIMEX3 tid="t1" type="DURATION" value="PXY" mod="APPROX">những năm</TIMEX3> qua , nhà chức trách Hàn Quốc và Nhật Bản <EVENT eid="e1" class="STATE">đau đầu</EVENT> vì tình trạng dân số ngày càng già đi , tỷ suất sinh <EVENT eid="e3" class="STATE">sụt giảm dần</EVENT> và người trẻ lười <EVENT eid="e4" class="I_STATE">hẹn hò</EVENT> , <EVENT eid="e5" class="I_STATE">kết hôn </EVENT>.
+</TIMEML>
+
+Sau đó 2 năm , thẩm phán đưa ra phán quyết 25 năm tù cho Bout .
+<TIMEML>
+<TIMEX3 tid="t1" type="DURATION" value="P2Y" mod="AFTER">Sau đó 2 năm</TIMEX3> , thẩm phán <EVENT eid="e1" class="REPORTING">đưa ra</EVENT> phán quyết <TIMEX3 tid="t2" type="DURATION" value="P25Y">25 năm</TIMEX3> tù cho Bout .
+</TIMEML>
+
+Chia sẻ lại một màn mai mối lên sóng từ cách đây 2 năm , “ Bạn muốn hẹn hò ” gây bão dân mạng .
+<TIMEML>
+<EVENT eid="e1" class="OCCURRENCE">Chia sẻ lại</EVENT> một màn <EVENT eid="e1" class="OCCURRENCE">mai mối</EVENT> lên sóng từ cách đây <TIMEX3 tid="t1" type="DURATION" value="P2Y">2 năm</TIMEX3> , “ Bạn muốn hẹn hò ” <EVENT eid="e2" class="OCCURRENCE">gây bão</EVENT> dân mạng .
+</TIMEML>
+
+“ Một ngày chưa hiểu thì hai ngày , nói một ý không hiểu thì hai ý … làm sao đả thông tư tưởng anh em .
+<TIMEML>
+“ <TIMEX3 tid="t1" type="DURATION" value="P1D">Một ngày</TIMEX3> chưa <EVENT eid="e1" class="STATE">hiểu</EVENT> thì <TIMEX3 tid="t2" type="DURATION" value="P2D">hai ngày</TIMEX3> , <EVENT eid="e2" class="REPORTING">nói</EVENT> một ý không <EVENT eid="e2" class="STATE">hiểu</EVENT> thì hai ý … làm sao <EVENT eid="e3" class="OCCURRENCE">đả thông</EVENT> tư tưởng anh em .
+</TIMEML>
+' Cách đây vài ngày khi nghe đến Gossip Girl tôi tò mò và dành hẳn 2 ngày lẫn đêm để xem hết season 1 và một nửa của season 2 , à tôi có lén xem tập cuối phim nữa .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+
+' Cách đây <TIMEX3 tid="t2" type="DURATION" value="PXD" mod="APPROX">vài ngày</TIMEX3> <TIMEX3 tid="t3" type="TIME">khi <EVENT eid="e1" class="PERCEPTION">nghe đến</EVENT> Gossip Girl </TIMEX3> tôi <EVENT eid="e2" class="I_STATE">tò mò</EVENT> và <EVENT eid="e3" class="OCCURRENCE">dành</EVENT> hẳn <TIMEX3 tid="t1" type="DURATION" value="P2D">2 ngày lẫn đêm</TIMEX3> để <EVENT eid="e4" class="PERCEPTION">xem</EVENT> hết season 1 và một nửa của season 2 , à tôi có <EVENT eid="e5" class="PERCEPTION">lén xem</EVENT> tập cuối phim nữa .
+</TimeML>
+
+Số giàn khoan , một chỉ số sớm cho sản lượng tương lai , giữ ở mức 747 giàn trong tuần tính tới 22/12 , tuy nhiên vẫn cao hơn nhiều một năm trước khi chỉ có 523 giàn hoạt động , sau khi các công ty năng lượng tăng cường kế hoạch chi tiêu cho năm 2017 , do giá dầu thô bắt đầu phục hồi .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Số giàn khoan , một chỉ số sớm cho sản lượng tương lai , <EVENT eid="e1" class="STATE">giữ</EVENT> ở mức 747 giàn trong tuần tính tới <TIMEX3 tid="t1" type="DATE" value="XXXX-12-22">22/12</TIMEX3>, tuy nhiên vẫn cao hơn nhiều<TIMEX3 tid="t6" type="DATE" value="XXXX" mod="BEFORE"> một năm trước</TIMEX3> <TIMEX3 tid="t4" type="TIME">khi chỉ có 523 giàn <EVENT eid="e2" class="OCCURRENCE">hoạt động</EVENT> </TIMEX3>, <TIMEX3 tid="t3" type="DURATION" mod="AFTER"> sau khi các công ty năng lượng <EVENT eid="e3" class="OCCURRENCE">tăng cường</EVENT> kế hoạch chi tiêu </TIMEX3> cho <TIMEX3 tid="t2" type="DATE" value="2017">năm 2017</TIMEX3> , do giá dầu thô bắt đầu <EVENT eid="e4" class="OCCURRENCE">phục hồi</EVENT> .
+</TimeML>
+
+Chỉ trong một tuần trở lại đây , các nhà thiên văn học đã phát hiện có tới ba tiểu hành tinh chưa từng được biết tới trước đây đã tiếp cận rất gần với Trái Đất , nhưng điều may mắn là chúng không gây ra bất cứ nguy hiểm gì cho Trái Đất của chúng ta .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Chỉ trong <TIMEX3 tid="t1" type="DURATION" value="P1W">một tuần</TIMEX3> trở lại đây , các nhà thiên văn học đã <EVENT eid="e1" class="I_ACTION">phát hiện</EVENT> có tới ba tiểu hành tinh chưa từng được biết tới trước đây đã <EVENT eid="e2" class="I_ACTION">tiếp cận</EVENT> rất gần với Trái Đất , nhưng điều may mắn là chúng không <EVENT eid="e3" class="OCCURRENCE">gây ra</EVENT> bất cứ nguy hiểm gì cho Trái Đất của chúng ta .
+</TimeML>
+
+Phút 55 , cầu thủ vào sân thay người Vũ Phong có pha chọc khe đầy tinh tế tạo điều kiện cho tiền đạo mang áo số 19 dứt điểm chéo góc , đáng tiếc trái bóng đi chệch cột dọc trong gang tấc . 3 phút sau , cầu thủ gốc Argentina bất ngờ bứt tốc từ giữa sân loại bỏ hoàn toàn hàng phòng ngự của Than Quảng Ninh , thế nhưng thể lực ở tuổi 33 khiến Đỗ Merlo không thể tung ra cú sút hoàn hảo nhất .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t2" type="TIME">Phút 55 </TIMEX3> , cầu thủ <EVENT eid="e1" class="OCCURRENCE">vào sân thay người </EVENT> Vũ Phong có pha <EVENT eid="e2" class="OCCURRENCE">chọc khe</EVENT> đầy tinh tế tạo điều kiện cho tiền đạo mang áo số 19 <EVENT eid="e3" class="OCCURRENCE">dứt điểm</EVENT> chéo góc , đáng tiếc trái bóng đi chệch cột dọc trong gang tấc . <TIMEX3 tid="t1" type="DURATION" value="P3M" mod="AFTER">3 phút sau</TIMEX3> , cầu thủ gốc Argentina bất ngờ <EVENT eid="e4" class="STATE">bứt tốc</EVENT> từ giữa sân <EVENT eid="e5" class="STATE">loại bỏ</EVENT> hoàn toàn hàng phòng ngự của Than Quảng Ninh , thế nhưng thể lực ở tuổi 33 khiến Đỗ Merlo không thể <EVENT eid="e6" class="OCCURRENCE">tung ra</EVENT> cú sút hoàn hảo nhất .
+</TimeML>
+
+Eugenia Silva sinh ngày 13/01/1976 tại Madrid , Tây Ban Nha .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Eugenia Silva <EVENT eid="e1" class="OCCURRENCE">sinh</EVENT> <TIMEX3 tid="t1" type="DATE" value="1976-01-13">ngày 13/01/1976</TIMEX3> tại Madrid , Tây Ban Nha .
+</TimeML>
+
+Trong những năm gần đây , nhiều hội đoàn từ thiện đã nhiệt thành tham gia cứu trợ đồng bào bị thiên tai , người nghèo khổ , hoạn nạn .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Trong <TIMEX3 tid="t2" type="DURATION" value="PXY" mod="APPROX">những năm</TIMEX3> <TIMEX3 tid="t1" type="DATE" value="PAST_REF">gần đây</TIMEX3> , nhiều hội đoàn từ thiện đã nhiệt thành <EVENT eid="e1" class="STATE">tham gia</EVENT> <EVENT eid="e2" class="OCCURRENCE">cứu trợ</EVENT> đồng bào bị thiên tai , người nghèo khổ , hoạn nạn .
+</TimeML>
+
+Một trong những điều buồn nhất của mùa đông là chúng ta phải nói lời tạm biệt với những chiếc váy xinh xắn đã giúp bạn toả sáng suốt mùa nắng vừa qua .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Một trong những điều buồn nhất của <TIMEX3 tid="t1" type="DATE" value="XXXX-WI">mùa đông</TIMEX3> là chúng ta phải <EVENT eid="e1" class="REPORTING">nói</EVENT> lời tạm biệt với những chiếc váy xinh xắn đã giúp bạn <EVENT eid="e2" class="STATE">toả sáng</EVENT> suốt <TIMEX3 tid="t2" type="DATE" value="XXXX-SU">mùa nắng</TIMEX3> vừa qua .
+</TimeML>
+
+V-League có “ biến ” ; Ronaldo trù dập đàn em ; Costa không hận Conte là những tin bóng đá nóng nhất tối 22/9 .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+V-League <EVENT eid="e1" class="OCCURRENCE">có “ biến ”</EVENT> ; Ronaldo <EVENT eid="e2" class="I_ACTION">trù dập</EVENT> đàn em ; Costa không <EVENT eid="e3" class="STATE">hận</EVENT> Conte là những tin bóng đá nóng nhất <TIMEX3 tid="t1" type="TIME" value="XXXX-09-22TEV">tối 22/9</TIMEX3> .
+</TimeML>
+
+Những năm đầu tiên của Merkel trong vai trò lãnh đạo đảng CDU không hề dễ dàng .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t1" type="DURATION" value="PXY" mod="APPROX">Những năm đầu tiên</TIMEX3> của Merkel trong vai trò <EVENT eid="e1" class="OCCURRENCE">lãnh đạo</EVENT> đảng CDU <EVENT eid="e2" class="STATE">không hề dễ dàng</EVENT> .
+</TimeML>
+
+Giải hạng Nhất – Cúp Bia Saigon Special 2017 sẽ tiếp tục diễn ra vào chiều Chủ nhật hàng tuần trên sân Bộ Công an , kéo dài trong 3 tháng để chọn ra 2 đội đứng đầu lên chơi giải Ngoại hạng diễn ra vào cuối năm .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Giải hạng Nhất – Cúp Bia Saigon Special <TIMEX3 tid="t1" type="DATE" value="2017">2017</TIMEX3> sẽ tiếp tục <EVENT eid="e1" class="STATE">diễn ra</EVENT> vào <TIMEX3 tid="t3" type="TIME" value="XXXX-XX-XXTAF">chiều Chủ nhật</TIMEX3> <TIMEX3 tid="t4" type="SET" value="P1W" quant="EVERY> hàng tuần </TIMEX3> trên sân Bộ Công an , kéo dài trong <TIMEX3 tid="t5" type="DURATION" value="P3M">3 tháng</TIMEX3> để <EVENT eid="e2" class="I_ACTION">chọn ra</EVENT> 2 đội đứng đầu <EVENT eid="e3" class="OCCURRENCE">lên chơi</EVENT> giải Ngoại hạng diễn ra vào <TIMEX3 tid="t6" type="DATE" value="XXXX" mod="END">cuối năm </TIMEX3>.
+</TimeML>
+
+Sau khi Lưu Bị qua đời , Gia Cát Lượng nắm quyền triều đình Thục Hán hơn 10 năm , trong đó có 7 năm khiến đất nước luôn trong tình trạng chiến tranh , bao gồm một lần Nam chinh và 6 lần Bắc phạt .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t3" type="DURATION" mod="AFTER">Sau khi Lưu Bị <EVENT eid="e5" class="STATE">qua đời</EVENT> </TIMEX3>, Gia Cát Lượng <EVENT eid="e1" class="OCCURRENCE">nắm quyền</EVENT> triều đình Thục Hán <TIMEX3 tid="t1" type="DURATION" value="P10Y" mod="MORE_THAN">hơn 10 năm</TIMEX3> , trong đó có <TIMEX3 tid="t2" type="DURATION" value="P7Y">7 năm</TIMEX3> khiến đất nước luôn trong tình trạng <EVENT eid="e2" class="STATE">chiến tranh</EVENT> , bao gồm một lần <EVENT eid="e3" class="OCCURRENCE">Nam chinh</EVENT> và 6 lần <EVENT eid="e4" class="OCCURRENCE">Bắc phạt</EVENT> .
+</TimeML>
+
+Tuy nhiên , 20 phút sau bệnh nhân Đ. xuất hiện chảy máu rỉ rả trong khoang miệng .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Tuy nhiên , <TIMEX3 tid="t1" type="DURATION" value="PT20M" mod="AFTER">20 phút sau</TIMEX3> bệnh nhân Đ. <EVENT eid="e1" class="OCCURRENCE">xuất hiện</EVENT> <EVENT eid="e2" class="STATE">chảy máu</EVENT> rỉ rả trong khoang miệng .
+</TimeML>
+
+Sau khi giảm giá vé , tính toán lại phương án tài chính , dự kiến thời gian thu giá khoảng 15 năm 4 tháng 18 ngày , thời điểm hoàn vốn dự kiến là ngày 18/2/2031 , giảm so với hợp đồng đã ký 1 năm 10 tháng .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t5" type="DURATION" mod="AFTER">Sau khi <EVENT eid="e1" class="I_ACTION">giảm giá</EVENT> vé </TIMEX3>, <EVENT eid="e2" class="OCCURRENCE">tính toán lại</EVENT> phương án tài chính , dự kiến thời gian thu giá <TIMEX3 tid="t7" type="DURATION" value="P15Y4M18D" mod="APPROX">khoảng 15 năm 4 tháng 18 ngày</TIMEX3> , thời điểm hoàn vốn dự kiến là <TIMEX3 tid="t1" type="DATE" value="2031-02-18">ngày 18/2/2031</TIMEX3> , giảm so với hợp đồng đã ký <TIMEX3 tid="t4" type="DURATION" value="P1Y:10M">1 năm 10 tháng</TIMEX3>  .
+</TimeML>
+
+" Hai năm qua và đặc biệt là năm 2017 , ngành Tổ chức xây dựng Đảng đã hoàn thành tốt nhiệm vụ đặt ra , góp phần củng cố và nâng cao niềm tin của nhân dân với Đảng , đóng góp có hiệu quả vào thành tựu chung của đất nước " - Tổng Bí thư nhấn mạnh .
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+" <TIMEX3 tid="t4" type="DURATION" value="P2Y">Hai năm</TIMEX3> qua và đặc biệt là <TIMEX3 tid="t2" type="DATE" value="2017">năm 2017</TIMEX3> , ngành Tổ chức xây dựng Đảng đã <EVENT eid="e1" class="ASPECTUAL">hoàn thành</EVENT> tốt nhiệm vụ đặt ra , <EVENT eid="e2" class="OCCURRENCE">góp phần</EVENT> <EVENT eid="e2" class="OCCURRENCE">củng cố</EVENT> và <EVENT eid="e3" class="OCCURRENCE">nâng cao</EVENT> niềm tin của nhân dân với Đảng , <EVENT eid="e4" class="OCCURRENCE">đóng góp</EVENT> có hiệu quả vào thành tựu chung của đất nước " - Tổng Bí thư nhấn mạnh .
+</TimeML>
